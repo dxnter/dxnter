@@ -2,7 +2,7 @@ name: Update Recent Activity
 on:
   schedule:
     # - cron: "0 * * * *"
-      - cron: '*/2 * * * *'
+      - cron: '*/5 * * * *'
 
 jobs:
   build:
