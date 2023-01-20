@@ -16,7 +16,7 @@ Languages  :  TypeScript, PHP, Python
 ```
 
 ```zsh
-> coding-stats --range=week
+> coding-stats --range=7d
 ```
 
 <!--START_SECTION:waka-->
