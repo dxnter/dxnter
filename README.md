@@ -20,4 +20,10 @@ Languages  :  TypeScript, PHP, Python
 ```
 
 <!--START_SECTION:waka-->
+
+```text
+YAML             4 hrs 8 mins    ████████░░░░░░░░░░░░░░░░░   32.23 %
+Other            1 hr 38 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 %
+```
+
 <!--END_SECTION:waka-->
