@@ -22,14 +22,14 @@ Languages  :  TypeScript, PHP, Python
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 30 hrs 21 mins
+Total Time: 34 hrs 1 min
 
-TypeScript       12 hrs 17 mins  █████████▓░░░░░░░░░░░░░░░   39.15 %
-YAML             6 hrs 49 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.73 %
-PHP              3 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
-JSON             1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-NEON             1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
-Markdown         1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+TypeScript       14 hrs 52 mins  ██████████▓░░░░░░░░░░░░░░   42.40 %
+YAML             6 hrs 13 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.75 %
+PHP              3 hrs 34 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
+Markdown         3 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+JSON             1 hr 48 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
+NEON             1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
 ```
 
 <!--END_SECTION:waka-->
