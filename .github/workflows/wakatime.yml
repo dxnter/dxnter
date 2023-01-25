@@ -9,6 +9,7 @@ jobs:
   update-readme:
     name: Update README with WakaTime Stats
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: athul/waka-readme@master
         with:
