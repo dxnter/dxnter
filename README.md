@@ -33,3 +33,10 @@ Clojure          1 hr 10 mins    █░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+```zsh
+lastfm-readme artists --range=6month --limit=6
+```
+
+<!--START_LASTFM_ARTISTS:{"period": "6month", "rows": 6}-->
+<!--END_LASTFM_ARTISTS-->
