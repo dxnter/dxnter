@@ -5,14 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 31 hrs 1 min
+Total Time: 25 hrs 14 mins
 
-TypeScript       6 hrs 26 mins   █████░░░░░░░░░░░░░░░░░░░░   20.30 %
-PHP              5 hrs 33 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.52 %
-JavaScript       5 hrs 13 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.48 %
-YAML             4 hrs 56 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.57 %
-Rust             3 hrs 18 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
-Markdown         3 hrs 8 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
+TypeScript       7 hrs 24 mins   ███████▒░░░░░░░░░░░░░░░░░   28.77 %
+PHP              5 hrs 33 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.59 %
+YAML             3 hrs 29 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
+Rust             3 hrs 18 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 %
+JavaScript       2 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
+Markdown         1 hr 33 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
 ```
 
 <!--END_SECTION:waka-->
