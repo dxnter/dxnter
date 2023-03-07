@@ -5,14 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 23 hrs 19 mins
+Total Time: 22 hrs 28 mins
 
-YAML             7 hrs 39 mins   ███████▓░░░░░░░░░░░░░░░░░   30.76 %
-PHP              4 hrs 12 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.94 %
-Terraform        3 hrs 20 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
-JavaScript       2 hrs 41 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
-.env file        1 hr 49 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
-Other            1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
+YAML             8 hrs 24 mins   █████████░░░░░░░░░░░░░░░░   35.65 %
+PHP              3 hrs 42 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.72 %
+Terraform        3 hrs 27 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
+JavaScript       1 hr 59 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
+.env file        1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+Other            1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
 ```
 
 <!--END_SECTION:waka-->
