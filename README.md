@@ -26,8 +26,8 @@ lastfm-readme artists --range=6month --limit=6
 
 > `399 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `162 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
-> `146 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
+> `150 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
 > `131 ▶️` ∙ **[Charli XCX](https://www.last.fm/music/Charli+XCX)**<br/>
 > `100 ▶️` ∙ **[Mac Quayle](https://www.last.fm/music/Mac+Quayle)**<br/>
-> `56 ▶️` ∙ **[Playboi Carti](https://www.last.fm/music/Playboi+Carti)**<br/>
+> `58 ▶️` ∙ **[Playboi Carti](https://www.last.fm/music/Playboi+Carti)**<br/>
 <!--END_LASTFM_ARTISTS-->
