@@ -5,11 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 23 hrs 12 mins
+Total Time: 21 hrs 53 mins
 
-PHP              15 hrs 35 mins  ████████████████░░░░░░░░░   63.95 %
-Terraform        2 hrs 43 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
-Other            1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+PHP              17 hrs 2 mins   ██████████████████▒░░░░░░   73.85 %
+.env file        1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+Other            1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
 ```
 
 <!--END_SECTION:waka-->
