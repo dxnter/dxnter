@@ -5,11 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 21 hrs 53 mins
+Total Time: 20 hrs 50 mins
 
-PHP              17 hrs 2 mins   ██████████████████▒░░░░░░   73.85 %
-.env file        1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
-Other            1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+PHP              15 hrs 56 mins  ██████████████████░░░░░░░   72.39 %
+Other            1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
 ```
 
 <!--END_SECTION:waka-->
