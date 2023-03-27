@@ -7,8 +7,8 @@
 ```text
 Total Time: 20 hrs 50 mins
 
-PHP              15 hrs 56 mins  ██████████████████░░░░░░░   72.39 %
-Other            1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+PHP              15 hrs 56 mins  ██████████████████░░░░░░░   72.15 %
+Other            1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
 ```
 
 <!--END_SECTION:waka-->
