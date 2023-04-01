@@ -5,10 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 13 hrs 46 mins
+Total Time: 11 hrs 19 mins
 
-PHP              11 hrs 5 mins   ███████████████████░░░░░░   76.63 %
-Other            41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+PHP              9 hrs 7 mins    ███████████████████░░░░░░   75.87 %
+Other            41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
 ```
 
 <!--END_SECTION:waka-->
