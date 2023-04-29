@@ -28,6 +28,6 @@ lastfm-readme artists --range=6month --limit=6
 > `148 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
 > `137 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
 > `106 ▶️` ∙ **[Charli XCX](https://www.last.fm/music/Charli+XCX)**<br/>
-> `95 ▶️` ∙ **[Mac Quayle](https://www.last.fm/music/Mac+Quayle)**<br/>
+> `96 ▶️` ∙ **[Mac Quayle](https://www.last.fm/music/Mac+Quayle)**<br/>
 > `66 ▶️` ∙ **[BLP KOSHER](https://www.last.fm/music/BLP+KOSHER)**<br/>
 <!--END_LASTFM_ARTISTS-->
