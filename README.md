@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 43 hrs 33 mins
+Total Time: 45 hrs 20 mins
 
-PHP              29 hrs 52 mins  █████████████████░░░░░░░░   68.02 %
-HTML             2 hrs 12 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
-Markdown         1 hr 58 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-Blade Template   1 hr 56 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
-C#               1 hr 44 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+PHP              30 hrs 27 mins  ████████████████▓░░░░░░░░   66.25 %
+HTML             2 hrs 12 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+YAML             2 hrs 11 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+Blade Template   2 hrs 2 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+C#               1 hr 44 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
 ```
 
 <!--END_SECTION:waka-->
