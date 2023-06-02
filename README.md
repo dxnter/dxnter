@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Total Time: 43 hrs 2 mins
 
 PHP              29 hrs 40 mins  █████████████████░░░░░░░░   67.91 %
