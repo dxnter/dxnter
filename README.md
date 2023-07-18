@@ -24,8 +24,8 @@ lastfm-readme artists --range=6month --limit=6
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 6 Months**
 
 > `237 ▶️` ∙ **[Lil Uzi Vert](https://www.last.fm/music/Lil+Uzi+Vert)**<br/>
-> `236 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
-> `164 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
+> `233 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
+> `160 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
 > `151 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
 > `111 ▶️` ∙ **[surrenderdorothy](https://www.last.fm/music/surrenderdorothy)**<br/>
 > `76 ▶️` ∙ **[Charli XCX](https://www.last.fm/music/Charli+XCX)**<br/>
