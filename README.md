@@ -26,7 +26,7 @@ lastfm-readme artists --range=6month --limit=6
 > `233 ▶️` ∙ **[Lil Uzi Vert](https://www.last.fm/music/Lil+Uzi+Vert)**<br/>
 > `149 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
 > `145 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
-> `110 ▶️` ∙ **[surrenderdorothy](https://www.last.fm/music/surrenderdorothy)**<br/>
+> `111 ▶️` ∙ **[surrenderdorothy](https://www.last.fm/music/surrenderdorothy)**<br/>
 > `88 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
-> `76 ▶️` ∙ **[Charli XCX](https://www.last.fm/music/Charli+XCX)**<br/>
+> `77 ▶️` ∙ **[Charli XCX](https://www.last.fm/music/Charli+XCX)**<br/>
 <!--END_LASTFM_ARTISTS-->
