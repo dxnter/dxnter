@@ -27,6 +27,6 @@ lastfm-readme artists --range=6month --limit=6
 > `141 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
 > `139 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `109 ▶️` ∙ **[surrenderdorothy](https://www.last.fm/music/surrenderdorothy)**<br/>
-> `77 ▶️` ∙ **[Charli XCX](https://www.last.fm/music/Charli+XCX)**<br/>
 > `75 ▶️` ∙ **[BLP KOSHER](https://www.last.fm/music/BLP+KOSHER)**<br/>
+> `75 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
 <!--END_LASTFM_ARTISTS-->
