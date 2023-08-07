@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 50 hrs 15 mins
+Total Time: 51 hrs 46 mins
 
-PHP              20 hrs 25 mins  ██████████░░░░░░░░░░░░░░░   39.61 %
-Blade Template   16 hrs 58 mins  ████████▒░░░░░░░░░░░░░░░░   32.93 %
-JavaScript       4 hrs 43 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
-Terraform        1 hr 46 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-Bash             1 hr 40 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+PHP              21 hrs 36 mins  ██████████▒░░░░░░░░░░░░░░   40.70 %
+Blade Template   17 hrs 16 mins  ████████░░░░░░░░░░░░░░░░░   32.52 %
+JavaScript       4 hrs 43 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 %
+Terraform        1 hr 46 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+Bash             1 hr 40 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
 ```
 
 <!--END_SECTION:waka-->
