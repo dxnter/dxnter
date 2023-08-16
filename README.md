@@ -1,6 +1,7 @@
-```zsh
-> coding-stats --range=7d
-```
+<img src="https://github.com/dxnter/dxnter/assets/17434202/2c375e88-2a36-4cb5-ae7f-b21fca2b54eb" alt="WakaTime Logo" width="20" height="16"/>
+<a href="https://wakatime.com/@dxnter" target="_blank">
+  <strong>WakaTime</strong>
+</a> 
 
 <!--START_SECTION:waka-->
 
@@ -16,9 +17,7 @@ SCSS             40 mins         ▓░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-```zsh
-lastfm-readme artists --range=6month --limit=6
-```
+<br/>
 
 <!--START_LASTFM_ARTISTS:{"period": "12month", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Year**
