@@ -1,4 +1,4 @@
-<img src="https://github.com/dxnter/dxnter/assets/17434202/2c375e88-2a36-4cb5-ae7f-b21fca2b54eb" alt="WakaTime Logo" width="20" height="16"/>
+<img src="https://github.com/dxnter/dxnter/assets/17434202/67b21fa4-d36d-46f9-9dec-f23d976b00ef" alt="WakaTime Logo" width="15" height="18"/>
 <a href="https://wakatime.com/@dxnter" target="_blank">
   <strong>WakaTime</strong>
 </a> 
