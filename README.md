@@ -1,8 +1,4 @@
-<img src="https://github.com/dxnter/dxnter/assets/17434202/67b21fa4-d36d-46f9-9dec-f23d976b00ef" alt="WakaTime Logo" width="14" height="18"/>
-<a href="https://wakatime.com/@dxnter" target="_blank">
-  <strong>WakaTime</strong>
-</a>
-<strong>- Past Week</strong>
+<img src="https://github.com/dxnter/dxnter/assets/17434202/67b21fa4-d36d-46f9-9dec-f23d976b00ef" alt="WakaTime Logo" width="14" height="18"/><a href="https://wakatime.com/@dxnter" target="_blank"><strong> WakaTime</strong></a><strong> - Past Week</strong>
 
 <!--START_SECTION:waka-->
 
