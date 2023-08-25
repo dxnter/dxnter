@@ -23,6 +23,6 @@ SCSS             23 mins         ▒░░░░░░░░░░░░░░�
 > `321 ▶️` ∙ **[Lil Uzi Vert](https://www.last.fm/music/Lil+Uzi+Vert)**<br/>
 > `294 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
 > `268 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
-> `194 ▶️` ∙ **[Charli XCX](https://www.last.fm/music/Charli+XCX)**<br/>
+> `191 ▶️` ∙ **[Charli XCX](https://www.last.fm/music/Charli+XCX)**<br/>
 > `118 ▶️` ∙ **[surrenderdorothy](https://www.last.fm/music/surrenderdorothy)**<br/>
 <!--END_LASTFM_ARTISTS-->
