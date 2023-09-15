@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 31 hrs 39 mins
+Total Time: 27 hrs 19 mins
 
-PHP              18 hrs 1 min    ██████████████░░░░░░░░░░░   56.11 %
-Blade Template   9 hrs 18 mins   ███████▒░░░░░░░░░░░░░░░░░   29.01 %
-Markdown         1 hr 36 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
-JavaScript       46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-TypeScript       39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+PHP              14 hrs 2 mins   ████████████▓░░░░░░░░░░░░   50.58 %
+Blade Template   8 hrs 52 mins   ████████░░░░░░░░░░░░░░░░░   31.95 %
+Markdown         1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
+JavaScript       47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+TypeScript       39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
 ```
 
 <!--END_SECTION:waka-->
