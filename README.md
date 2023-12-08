@@ -24,5 +24,5 @@ Text             1 hr 40 mins    ▓░░░░░░░░░░░░░░�
 > `52 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `45 ▶️` ∙ **[Lana Del Rey](https://www.last.fm/music/Lana+Del+Rey)**<br/>
 > `30 ▶️` ∙ **[Charli XCX](https://www.last.fm/music/Charli+XCX)**<br/>
-> `22 ▶️` ∙ **[Movements](https://www.last.fm/music/Movements)**<br/>
+> `22 ▶️` ∙ **[Machine Gun Kelly](https://www.last.fm/music/Machine+Gun+Kelly)**<br/>
 <!--END_LASTFM_ARTISTS-->
