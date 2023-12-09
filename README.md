@@ -24,5 +24,5 @@ JSON             2 hrs 17 mins   █▒░░░░░░░░░░░░░�
 > `45 ▶️` ∙ **[Lana Del Rey](https://www.last.fm/music/Lana+Del+Rey)**<br/>
 > `43 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `29 ▶️` ∙ **[Charli XCX](https://www.last.fm/music/Charli+XCX)**<br/>
-> `22 ▶️` ∙ **[Machine Gun Kelly](https://www.last.fm/music/Machine+Gun+Kelly)**<br/>
+> `22 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
 <!--END_LASTFM_ARTISTS-->
