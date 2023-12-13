@@ -24,5 +24,5 @@ Text             1 hr 54 mins    █░░░░░░░░░░░░░░�
 > `45 ▶️` ∙ **[Lana Del Rey](https://www.last.fm/music/Lana+Del+Rey)**<br/>
 > `43 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `29 ▶️` ∙ **[Charli XCX](https://www.last.fm/music/Charli+XCX)**<br/>
-> `23 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
+> `24 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
 <!--END_LASTFM_ARTISTS-->
