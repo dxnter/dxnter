@@ -21,7 +21,7 @@ SCSS             34 mins         ▒░░░░░░░░░░░░░░�
 
 > `83 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
 > `65 ▶️` ∙ **[Ludwig Göransson](https://www.last.fm/music/Ludwig+G%C3%B6ransson)**<br/>
-> `48 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
+> `49 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `43 ▶️` ∙ **[Lana Del Rey](https://www.last.fm/music/Lana+Del+Rey)**<br/>
 > `25 ▶️` ∙ **[Charli XCX](https://www.last.fm/music/Charli+XCX)**<br/>
 > `24 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
