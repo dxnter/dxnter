@@ -22,7 +22,7 @@ YAML             22 mins         ▒░░░░░░░░░░░░░░�
 > `83 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
 > `66 ▶️` ∙ **[Ludwig Göransson](https://www.last.fm/music/Ludwig+G%C3%B6ransson)**<br/>
 > `58 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
-> `45 ▶️` ∙ **[Lana Del Rey](https://www.last.fm/music/Lana+Del+Rey)**<br/>
+> `31 ▶️` ∙ **[Lana Del Rey](https://www.last.fm/music/Lana+Del+Rey)**<br/>
 > `26 ▶️` ∙ **[surrenderdorothy](https://www.last.fm/music/surrenderdorothy)**<br/>
 > `25 ▶️` ∙ **[Charli XCX](https://www.last.fm/music/Charli+XCX)**<br/>
 <!--END_LASTFM_ARTISTS-->
