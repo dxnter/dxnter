@@ -3,9 +3,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 1 hr 38 mins
 
-No activity tracked
+Go    1 hr 36 mins    ████████████████████████▓   98.52 %
+CSV   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 ```
 
 <!--END_SECTION:waka-->
