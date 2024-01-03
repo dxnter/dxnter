@@ -3,10 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 38 mins
+Total Time: 5 hrs 7 mins
 
-Go    1 hr 36 mins    ████████████████████████▓   98.52 %
-CSV   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+PHP              2 hrs 40 mins   ████████████▓░░░░░░░░░░░░   50.62 %
+Go               1 hr 36 mins    ███████▓░░░░░░░░░░░░░░░░░   30.52 %
+Blade Template   38 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
+Other            9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Text             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 ```
 
 <!--END_SECTION:waka-->
