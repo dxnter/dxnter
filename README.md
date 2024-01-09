@@ -20,9 +20,9 @@ SCSS             13 mins         ▒░░░░░░░░░░░░░░�
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 3 Months**
 
 > `87 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
-> `71 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
+> `75 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `65 ▶️` ∙ **[Ludwig Göransson](https://www.last.fm/music/Ludwig+G%C3%B6ransson)**<br/>
 > `36 ▶️` ∙ **[surrenderdorothy](https://www.last.fm/music/surrenderdorothy)**<br/>
+> `33 ▶️` ∙ **[Machine Gun Kelly](https://www.last.fm/music/Machine+Gun+Kelly)**<br/>
 > `32 ▶️` ∙ **[Charli XCX](https://www.last.fm/music/Charli+XCX)**<br/>
-> `32 ▶️` ∙ **[Machine Gun Kelly](https://www.last.fm/music/Machine+Gun+Kelly)**<br/>
 <!--END_LASTFM_ARTISTS-->
