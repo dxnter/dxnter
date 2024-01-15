@@ -21,8 +21,8 @@ TypeScript       1 hr 19 mins    █░░░░░░░░░░░░░░�
 
 > `111 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `84 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
-> `65 ▶️` ∙ **[Ludwig Göransson](https://www.last.fm/music/Ludwig+G%C3%B6ransson)**<br/>
+> `66 ▶️` ∙ **[Ludwig Göransson](https://www.last.fm/music/Ludwig+G%C3%B6ransson)**<br/>
+> `56 ▶️` ∙ **[Mac Quayle](https://www.last.fm/music/Mac+Quayle)**<br/>
 > `40 ▶️` ∙ **[surrenderdorothy](https://www.last.fm/music/surrenderdorothy)**<br/>
 > `38 ▶️` ∙ **[Charli XCX](https://www.last.fm/music/Charli+XCX)**<br/>
-> `35 ▶️` ∙ **[Machine Gun Kelly](https://www.last.fm/music/Machine+Gun+Kelly)**<br/>
 <!--END_LASTFM_ARTISTS-->
