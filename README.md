@@ -21,8 +21,8 @@ JavaScript       21 mins         ▓░░░░░░░░░░░░░░�
 
 > `80 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `66 ▶️` ∙ **[Ludwig Göransson](https://www.last.fm/music/Ludwig+G%C3%B6ransson)**<br/>
-> `56 ▶️` ∙ **[Mac Quayle](https://www.last.fm/music/Mac+Quayle)**<br/>
+> `63 ▶️` ∙ **[Mac Quayle](https://www.last.fm/music/Mac+Quayle)**<br/>
 > `50 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
-> `35 ▶️` ∙ **[Charli XCX](https://www.last.fm/music/Charli+XCX)**<br/>
-> `35 ▶️` ∙ **[Machine Gun Kelly](https://www.last.fm/music/Machine+Gun+Kelly)**<br/>
+> `36 ▶️` ∙ **[Charli XCX](https://www.last.fm/music/Charli+XCX)**<br/>
+> `36 ▶️` ∙ **[Doja Cat](https://www.last.fm/music/Doja+Cat)**<br/>
 <!--END_LASTFM_ARTISTS-->
