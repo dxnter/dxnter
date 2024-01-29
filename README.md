@@ -3,9 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 2 mins
 
-Bash   0 secs          █████████████████████████   100.00 %
+Batchfile   0 secs          ██████████░░░░░░░░░░░░░░░   39.79 %
+Bash        0 secs          █████▓░░░░░░░░░░░░░░░░░░░   22.14 %
+Text        0 secs          █████▒░░░░░░░░░░░░░░░░░░░   21.86 %
+INI         0 secs          ████░░░░░░░░░░░░░░░░░░░░░   16.20 %
 ```
 
 <!--END_SECTION:waka-->
