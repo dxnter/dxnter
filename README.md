@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 17 hrs 23 mins
+Total Time: 23 hrs 34 mins
 
-PHP              6 hrs 24 mins   █████████▒░░░░░░░░░░░░░░░   36.86 %
-Blade Template   3 hrs 39 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.07 %
-TypeScript       3 hrs 14 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.69 %
-JavaScript       1 hr 23 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
-.env file        40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+PHP              12 hrs 6 mins   ████████████▓░░░░░░░░░░░░   51.23 %
+Blade Template   3 hrs 48 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.15 %
+TypeScript       3 hrs 29 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.76 %
+JavaScript       1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+.env file        41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
 ```
 
 <!--END_SECTION:waka-->
