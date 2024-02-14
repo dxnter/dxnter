@@ -23,6 +23,6 @@ JavaScript                 41 mins         ▓░░░░░░░░░░░�
 > `72 ▶️` ∙ **[Mac Quayle](https://www.last.fm/music/Mac+Quayle)**<br/>
 > `36 ▶️` ∙ **[Machine Gun Kelly](https://www.last.fm/music/Machine+Gun+Kelly)**<br/>
 > `35 ▶️` ∙ **[Doja Cat](https://www.last.fm/music/Doja+Cat)**<br/>
-> `33 ▶️` ∙ **[Ludwig Göransson](https://www.last.fm/music/Ludwig+G%C3%B6ransson)**<br/>
 > `28 ▶️` ∙ **[surrenderdorothy](https://www.last.fm/music/surrenderdorothy)**<br/>
+> `27 ▶️` ∙ **[Cochise](https://www.last.fm/music/Cochise)**<br/>
 <!--END_LASTFM_ARTISTS-->
