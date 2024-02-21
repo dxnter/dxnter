@@ -22,7 +22,7 @@ JavaScript       1 hr 14 mins    █░░░░░░░░░░░░░░�
 > `161 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `72 ▶️` ∙ **[Mac Quayle](https://www.last.fm/music/Mac+Quayle)**<br/>
 > `36 ▶️` ∙ **[Machine Gun Kelly](https://www.last.fm/music/Machine+Gun+Kelly)**<br/>
-> `32 ▶️` ∙ **[Doja Cat](https://www.last.fm/music/Doja+Cat)**<br/>
 > `30 ▶️` ∙ **[Cochise](https://www.last.fm/music/Cochise)**<br/>
+> `30 ▶️` ∙ **[Doja Cat](https://www.last.fm/music/Doja+Cat)**<br/>
 > `28 ▶️` ∙ **[surrenderdorothy](https://www.last.fm/music/surrenderdorothy)**<br/>
 <!--END_LASTFM_ARTISTS-->
