@@ -23,6 +23,6 @@ JavaScript       2 hrs 12 mins   █▓░░░░░░░░░░░░░�
 > `72 ▶️` ∙ **[Mac Quayle](https://www.last.fm/music/Mac+Quayle)**<br/>
 > `39 ▶️` ∙ **[Cochise](https://www.last.fm/music/Cochise)**<br/>
 > `36 ▶️` ∙ **[Machine Gun Kelly](https://www.last.fm/music/Machine+Gun+Kelly)**<br/>
+> `31 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
 > `30 ▶️` ∙ **[Doja Cat](https://www.last.fm/music/Doja+Cat)**<br/>
-> `30 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
 <!--END_LASTFM_ARTISTS-->
