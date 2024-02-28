@@ -22,7 +22,7 @@ JSON             1 hr 22 mins    █░░░░░░░░░░░░░░�
 > `201 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `72 ▶️` ∙ **[Mac Quayle](https://www.last.fm/music/Mac+Quayle)**<br/>
 > `43 ▶️` ∙ **[Cochise](https://www.last.fm/music/Cochise)**<br/>
-> `36 ▶️` ∙ **[Machine Gun Kelly](https://www.last.fm/music/Machine+Gun+Kelly)**<br/>
 > `32 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
-> `30 ▶️` ∙ **[Doja Cat](https://www.last.fm/music/Doja+Cat)**<br/>
+> `30 ▶️` ∙ **[Machine Gun Kelly](https://www.last.fm/music/Machine+Gun+Kelly)**<br/>
+> `29 ▶️` ∙ **[surrenderdorothy](https://www.last.fm/music/surrenderdorothy)**<br/>
 <!--END_LASTFM_ARTISTS-->
