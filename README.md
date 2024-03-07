@@ -24,5 +24,5 @@ Other            1 hr 17 mins    █░░░░░░░░░░░░░░�
 > `64 ▶️` ∙ **[Cochise](https://www.last.fm/music/Cochise)**<br/>
 > `37 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
 > `29 ▶️` ∙ **[surrenderdorothy](https://www.last.fm/music/surrenderdorothy)**<br/>
-> `26 ▶️` ∙ **[Doja Cat](https://www.last.fm/music/Doja+Cat)**<br/>
+> `25 ▶️` ∙ **[Doja Cat](https://www.last.fm/music/Doja+Cat)**<br/>
 <!--END_LASTFM_ARTISTS-->
