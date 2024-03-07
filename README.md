@@ -22,7 +22,7 @@ Other            1 hr 17 mins    █░░░░░░░░░░░░░░�
 > `217 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `73 ▶️` ∙ **[Mac Quayle](https://www.last.fm/music/Mac+Quayle)**<br/>
 > `64 ▶️` ∙ **[Cochise](https://www.last.fm/music/Cochise)**<br/>
-> `35 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
+> `37 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
 > `29 ▶️` ∙ **[surrenderdorothy](https://www.last.fm/music/surrenderdorothy)**<br/>
 > `26 ▶️` ∙ **[Doja Cat](https://www.last.fm/music/Doja+Cat)**<br/>
 <!--END_LASTFM_ARTISTS-->
