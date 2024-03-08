@@ -22,7 +22,7 @@ TypeScript       1 hr            ▓░░░░░░░░░░░░░░�
 > `225 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `73 ▶️` ∙ **[Mac Quayle](https://www.last.fm/music/Mac+Quayle)**<br/>
 > `70 ▶️` ∙ **[Cochise](https://www.last.fm/music/Cochise)**<br/>
-> `35 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
+> `30 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
 > `30 ▶️` ∙ **[surrenderdorothy](https://www.last.fm/music/surrenderdorothy)**<br/>
 > `25 ▶️` ∙ **[Doja Cat](https://www.last.fm/music/Doja+Cat)**<br/>
 <!--END_LASTFM_ARTISTS-->
