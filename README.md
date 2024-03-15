@@ -21,7 +21,7 @@ SCSS             13 mins         ▒░░░░░░░░░░░░░░�
 
 > `204 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `74 ▶️` ∙ **[Mac Quayle](https://www.last.fm/music/Mac+Quayle)**<br/>
-> `70 ▶️` ∙ **[Cochise](https://www.last.fm/music/Cochise)**<br/>
+> `68 ▶️` ∙ **[Cochise](https://www.last.fm/music/Cochise)**<br/>
 > `29 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
 > `24 ▶️` ∙ **[Charli XCX](https://www.last.fm/music/Charli+XCX)**<br/>
 > `24 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
