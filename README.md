@@ -23,6 +23,6 @@ JavaScript       15 mins         ▒░░░░░░░░░░░░░░�
 > `74 ▶️` ∙ **[Mac Quayle](https://www.last.fm/music/Mac+Quayle)**<br/>
 > `68 ▶️` ∙ **[Cochise](https://www.last.fm/music/Cochise)**<br/>
 > `29 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
+> `25 ▶️` ∙ **[deadmau5](https://www.last.fm/music/deadmau5)**<br/>
 > `24 ▶️` ∙ **[Charli XCX](https://www.last.fm/music/Charli+XCX)**<br/>
-> `24 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
 <!--END_LASTFM_ARTISTS-->
