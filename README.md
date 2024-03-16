@@ -24,5 +24,5 @@ JavaScript       15 mins         ▒░░░░░░░░░░░░░░�
 > `68 ▶️` ∙ **[Cochise](https://www.last.fm/music/Cochise)**<br/>
 > `29 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
 > `25 ▶️` ∙ **[deadmau5](https://www.last.fm/music/deadmau5)**<br/>
-> `24 ▶️` ∙ **[Charli XCX](https://www.last.fm/music/Charli+XCX)**<br/>
+> `25 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
 <!--END_LASTFM_ARTISTS-->
