@@ -22,7 +22,7 @@ JavaScript       15 mins         ▒░░░░░░░░░░░░░░�
 > `204 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `74 ▶️` ∙ **[Mac Quayle](https://www.last.fm/music/Mac+Quayle)**<br/>
 > `68 ▶️` ∙ **[Cochise](https://www.last.fm/music/Cochise)**<br/>
-> `29 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
+> `30 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
+> `28 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
 > `25 ▶️` ∙ **[deadmau5](https://www.last.fm/music/deadmau5)**<br/>
-> `25 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
 <!--END_LASTFM_ARTISTS-->
