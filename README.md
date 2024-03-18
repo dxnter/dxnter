@@ -24,5 +24,5 @@ Makefile         9 mins          ▒░░░░░░░░░░░░░░�
 > `70 ▶️` ∙ **[Cochise](https://www.last.fm/music/Cochise)**<br/>
 > `30 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
 > `28 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
-> `25 ▶️` ∙ **[deadmau5](https://www.last.fm/music/deadmau5)**<br/>
+> `26 ▶️` ∙ **[deadmau5](https://www.last.fm/music/deadmau5)**<br/>
 <!--END_LASTFM_ARTISTS-->
