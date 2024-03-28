@@ -20,8 +20,8 @@ JavaScript       39 mins         ▓░░░░░░░░░░░░░░�
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 3 Months**
 
 > `208 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
-> `81 ▶️` ∙ **[Cochise](https://www.last.fm/music/Cochise)**<br/>
 > `75 ▶️` ∙ **[Mac Quayle](https://www.last.fm/music/Mac+Quayle)**<br/>
+> `71 ▶️` ∙ **[Cochise](https://www.last.fm/music/Cochise)**<br/>
 > `47 ▶️` ∙ **[Ludwig Göransson](https://www.last.fm/music/Ludwig+G%C3%B6ransson)**<br/>
 > `32 ▶️` ∙ **[deadmau5](https://www.last.fm/music/deadmau5)**<br/>
 > `32 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
