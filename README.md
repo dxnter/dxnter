@@ -23,6 +23,6 @@ Text             22 mins         ▒░░░░░░░░░░░░░░�
 > `80 ▶️` ∙ **[Cochise](https://www.last.fm/music/Cochise)**<br/>
 > `75 ▶️` ∙ **[Mac Quayle](https://www.last.fm/music/Mac+Quayle)**<br/>
 > `47 ▶️` ∙ **[Ludwig Göransson](https://www.last.fm/music/Ludwig+G%C3%B6ransson)**<br/>
-> `40 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
+> `41 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
 > `33 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
 <!--END_LASTFM_ARTISTS-->
