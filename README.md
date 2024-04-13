@@ -3,13 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 12 mins
+Total Time: 0 secs
 
-Blade Template   35 mins         ████████████░░░░░░░░░░░░░   48.30 %
-PHP              34 mins         ███████████▓░░░░░░░░░░░░░   46.90 %
-JavaScript       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-Markdown         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-Log              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
