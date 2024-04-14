@@ -18,7 +18,7 @@ No activity tracked
 > `184 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `84 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
 > `82 ▶️` ∙ **[Cochise](https://www.last.fm/music/Cochise)**<br/>
-> `63 ▶️` ∙ **[Mac Quayle](https://www.last.fm/music/Mac+Quayle)**<br/>
-> `52 ▶️` ∙ **[Ludwig Göransson](https://www.last.fm/music/Ludwig+G%C3%B6ransson)**<br/>
+> `51 ▶️` ∙ **[Ludwig Göransson](https://www.last.fm/music/Ludwig+G%C3%B6ransson)**<br/>
 > `34 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
+> `32 ▶️` ∙ **[deadmau5](https://www.last.fm/music/deadmau5)**<br/>
 <!--END_LASTFM_ARTISTS-->
