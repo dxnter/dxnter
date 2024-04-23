@@ -3,9 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 2 hrs 38 mins
 
-No activity tracked
+PHP              1 hr 26 mins    ████████████▓░░░░░░░░░░░░   50.00 %
+Blade Template   1 hr 11 mins    ██████████▒░░░░░░░░░░░░░░   41.31 %
+Other            14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
+JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Prettier File    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
