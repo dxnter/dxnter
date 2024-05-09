@@ -21,7 +21,7 @@ SCSS             7 mins          ▓░░░░░░░░░░░░░░�
 
 > `185 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
 > `148 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
-> `86 ▶️` ∙ **[Cochise](https://www.last.fm/music/Cochise)**<br/>
+> `74 ▶️` ∙ **[Cochise](https://www.last.fm/music/Cochise)**<br/>
 > `55 ▶️` ∙ **[Ludwig Göransson](https://www.last.fm/music/Ludwig+G%C3%B6ransson)**<br/>
 > `39 ▶️` ∙ **[Lil Uzi Vert](https://www.last.fm/music/Lil+Uzi+Vert)**<br/>
 > `31 ▶️` ∙ **[deadmau5](https://www.last.fm/music/deadmau5)**<br/>
