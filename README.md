@@ -24,5 +24,5 @@ JavaScript       34 mins         ▒░░░░░░░░░░░░░░�
 > `72 ▶️` ∙ **[Cochise](https://www.last.fm/music/Cochise)**<br/>
 > `55 ▶️` ∙ **[Ludwig Göransson](https://www.last.fm/music/Ludwig+G%C3%B6ransson)**<br/>
 > `51 ▶️` ∙ **[Lil Uzi Vert](https://www.last.fm/music/Lil+Uzi+Vert)**<br/>
-> `31 ▶️` ∙ **[deadmau5](https://www.last.fm/music/deadmau5)**<br/>
+> `30 ▶️` ∙ **[deadmau5](https://www.last.fm/music/deadmau5)**<br/>
 <!--END_LASTFM_ARTISTS-->
