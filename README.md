@@ -19,9 +19,9 @@ SCSS             7 mins          ░░░░░░░░░░░░░░░�
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 3 Months**
 
-> `206 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
+> `221 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
 > `73 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
-> `70 ▶️` ∙ **[Cochise](https://www.last.fm/music/Cochise)**<br/>
+> `71 ▶️` ∙ **[Cochise](https://www.last.fm/music/Cochise)**<br/>
 > `55 ▶️` ∙ **[Ludwig Göransson](https://www.last.fm/music/Ludwig+G%C3%B6ransson)**<br/>
 > `51 ▶️` ∙ **[Lil Uzi Vert](https://www.last.fm/music/Lil+Uzi+Vert)**<br/>
 > `30 ▶️` ∙ **[deadmau5](https://www.last.fm/music/deadmau5)**<br/>
