@@ -24,5 +24,5 @@ SCSS             7 mins          ░░░░░░░░░░░░░░░�
 > `68 ▶️` ∙ **[Cochise](https://www.last.fm/music/Cochise)**<br/>
 > `56 ▶️` ∙ **[Ludwig Göransson](https://www.last.fm/music/Ludwig+G%C3%B6ransson)**<br/>
 > `52 ▶️` ∙ **[Lil Uzi Vert](https://www.last.fm/music/Lil+Uzi+Vert)**<br/>
-> `30 ▶️` ∙ **[deadmau5](https://www.last.fm/music/deadmau5)**<br/>
+> `31 ▶️` ∙ **[deadmau5](https://www.last.fm/music/deadmau5)**<br/>
 <!--END_LASTFM_ARTISTS-->
