@@ -24,5 +24,5 @@ YAML             9 mins          ▒░░░░░░░░░░░░░░�
 > `55 ▶️` ∙ **[Ludwig Göransson](https://www.last.fm/music/Ludwig+G%C3%B6ransson)**<br/>
 > `54 ▶️` ∙ **[Lil Uzi Vert](https://www.last.fm/music/Lil+Uzi+Vert)**<br/>
 > `46 ▶️` ∙ **[Cochise](https://www.last.fm/music/Cochise)**<br/>
-> `27 ▶️` ∙ **[deadmau5](https://www.last.fm/music/deadmau5)**<br/>
+> `30 ▶️` ∙ **[Charli XCX](https://www.last.fm/music/Charli+XCX)**<br/>
 <!--END_LASTFM_ARTISTS-->
