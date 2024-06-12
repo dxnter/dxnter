@@ -22,7 +22,7 @@ Terraform        12 mins         ▒░░░░░░░░░░░░░░�
 > `238 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
 > `54 ▶️` ∙ **[Lil Uzi Vert](https://www.last.fm/music/Lil+Uzi+Vert)**<br/>
 > `53 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
-> `47 ▶️` ∙ **[Ludwig Göransson](https://www.last.fm/music/Ludwig+G%C3%B6ransson)**<br/>
 > `46 ▶️` ∙ **[Cochise](https://www.last.fm/music/Cochise)**<br/>
+> `39 ▶️` ∙ **[Ludwig Göransson](https://www.last.fm/music/Ludwig+G%C3%B6ransson)**<br/>
 > `36 ▶️` ∙ **[Charli XCX](https://www.last.fm/music/Charli+XCX)**<br/>
 <!--END_LASTFM_ARTISTS-->
