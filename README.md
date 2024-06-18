@@ -24,5 +24,5 @@ JavaScript       22 mins         ▒░░░░░░░░░░░░░░�
 > `50 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `44 ▶️` ∙ **[Cochise](https://www.last.fm/music/Cochise)**<br/>
 > `42 ▶️` ∙ **[Charli XCX](https://www.last.fm/music/Charli+XCX)**<br/>
-> `39 ▶️` ∙ **[Ludwig Göransson](https://www.last.fm/music/Ludwig+G%C3%B6ransson)**<br/>
+> `27 ▶️` ∙ **[Kali Uchis](https://www.last.fm/music/Kali+Uchis)**<br/>
 <!--END_LASTFM_ARTISTS-->
