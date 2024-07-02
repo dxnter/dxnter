@@ -21,7 +21,7 @@ Bash             9 mins          ▓░░░░░░░░░░░░░░�
 
 > `211 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
 > `74 ▶️` ∙ **[Charli XCX](https://www.last.fm/music/Charli+XCX)**<br/>
-> `45 ▶️` ∙ **[Lil Uzi Vert](https://www.last.fm/music/Lil+Uzi+Vert)**<br/>
+> `44 ▶️` ∙ **[Lil Uzi Vert](https://www.last.fm/music/Lil+Uzi+Vert)**<br/>
 > `40 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `33 ▶️` ∙ **[Kali Uchis](https://www.last.fm/music/Kali+Uchis)**<br/>
 > `20 ▶️` ∙ **[Cochise](https://www.last.fm/music/Cochise)**<br/>
