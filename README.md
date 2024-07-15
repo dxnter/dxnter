@@ -21,7 +21,7 @@ Terraform        17 mins         ▒░░░░░░░░░░░░░░�
 
 > `161 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
 > `94 ▶️` ∙ **[Charli XCX](https://www.last.fm/music/Charli+XCX)**<br/>
-> `57 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
+> `67 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
 > `38 ▶️` ∙ **[Lil Uzi Vert](https://www.last.fm/music/Lil+Uzi+Vert)**<br/>
 > `34 ▶️` ∙ **[Kali Uchis](https://www.last.fm/music/Kali+Uchis)**<br/>
 > `25 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
