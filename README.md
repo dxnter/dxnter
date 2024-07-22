@@ -20,9 +20,9 @@ Markdown         6 mins          ▒░░░░░░░░░░░░░░�
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 3 Months**
 
 > `101 ▶️` ∙ **[Charli XCX](https://www.last.fm/music/Charli+XCX)**<br/>
-> `89 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
+> `87 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
 > `71 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
-> `40 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
+> `45 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
 > `34 ▶️` ∙ **[Kali Uchis](https://www.last.fm/music/Kali+Uchis)**<br/>
 > `26 ▶️` ∙ **[Bad Bunny](https://www.last.fm/music/Bad+Bunny)**<br/>
 <!--END_LASTFM_ARTISTS-->
