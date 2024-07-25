@@ -24,5 +24,5 @@ JSON             1 min           ░░░░░░░░░░░░░░░�
 > `71 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
 > `56 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
 > `34 ▶️` ∙ **[Kali Uchis](https://www.last.fm/music/Kali+Uchis)**<br/>
-> `26 ▶️` ∙ **[Bad Bunny](https://www.last.fm/music/Bad+Bunny)**<br/>
+> `28 ▶️` ∙ **[Bad Bunny](https://www.last.fm/music/Bad+Bunny)**<br/>
 <!--END_LASTFM_ARTISTS-->
