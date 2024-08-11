@@ -24,5 +24,5 @@ TypeScript        18 mins         ▒░░░░░░░░░░░░░░�
 > `56 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
 > `54 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
 > `35 ▶️` ∙ **[Kali Uchis](https://www.last.fm/music/Kali+Uchis)**<br/>
-> `25 ▶️` ∙ **[ROSALÍA](https://www.last.fm/music/ROSAL%C3%8DA)**<br/>
+> `27 ▶️` ∙ **[ROSALÍA](https://www.last.fm/music/ROSAL%C3%8DA)**<br/>
 <!--END_LASTFM_ARTISTS-->
