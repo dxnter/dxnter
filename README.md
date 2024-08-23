@@ -23,6 +23,6 @@ YAML             42 mins         ▓░░░░░░░░░░░░░░�
 > `93 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
 > `54 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
 > `40 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
+> `37 ▶️` ∙ **[Omar Apollo](https://www.last.fm/music/Omar+Apollo)**<br/>
 > `29 ▶️` ∙ **[Fred again..](https://www.last.fm/music/Fred+again..)**<br/>
-> `27 ▶️` ∙ **[Kali Uchis](https://www.last.fm/music/Kali+Uchis)**<br/>
 <!--END_LASTFM_ARTISTS-->
