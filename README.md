@@ -22,7 +22,7 @@ YAML             42 mins         ▓░░░░░░░░░░░░░░�
 > `125 ▶️` ∙ **[Charli XCX](https://www.last.fm/music/Charli+XCX)**<br/>
 > `93 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
 > `54 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
-> `37 ▶️` ∙ **[Omar Apollo](https://www.last.fm/music/Omar+Apollo)**<br/>
+> `40 ▶️` ∙ **[Omar Apollo](https://www.last.fm/music/Omar+Apollo)**<br/>
 > `29 ▶️` ∙ **[Fred again..](https://www.last.fm/music/Fred+again..)**<br/>
 > `27 ▶️` ∙ **[ROSALÍA](https://www.last.fm/music/ROSAL%C3%8DA)**<br/>
 <!--END_LASTFM_ARTISTS-->
