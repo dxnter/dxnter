@@ -22,7 +22,7 @@ Terraform        4 mins          ▒░░░░░░░░░░░░░░�
 > `157 ▶️` ∙ **[Charli XCX](https://www.last.fm/music/Charli+XCX)**<br/>
 > `101 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
 > `54 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
-> `50 ▶️` ∙ **[Omar Apollo](https://www.last.fm/music/Omar+Apollo)**<br/>
+> `51 ▶️` ∙ **[Omar Apollo](https://www.last.fm/music/Omar+Apollo)**<br/>
 > `34 ▶️` ∙ **[Fred again..](https://www.last.fm/music/Fred+again..)**<br/>
-> `30 ▶️` ∙ **[ROSALÍA](https://www.last.fm/music/ROSAL%C3%8DA)**<br/>
+> `33 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
 <!--END_LASTFM_ARTISTS-->
