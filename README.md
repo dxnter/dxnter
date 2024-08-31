@@ -24,5 +24,5 @@ HTML             2 mins          ▒░░░░░░░░░░░░░░�
 > `55 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
 > `51 ▶️` ∙ **[Omar Apollo](https://www.last.fm/music/Omar+Apollo)**<br/>
 > `34 ▶️` ∙ **[Fred again..](https://www.last.fm/music/Fred+again..)**<br/>
-> `33 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
+> `31 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
 <!--END_LASTFM_ARTISTS-->
