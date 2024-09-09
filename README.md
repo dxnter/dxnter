@@ -22,7 +22,7 @@ CSV              15 mins         ▒░░░░░░░░░░░░░░�
 > `141 ▶️` ∙ **[Charli XCX](https://www.last.fm/music/Charli+XCX)**<br/>
 > `96 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
 > `57 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
-> `51 ▶️` ∙ **[Omar Apollo](https://www.last.fm/music/Omar+Apollo)**<br/>
+> `52 ▶️` ∙ **[Omar Apollo](https://www.last.fm/music/Omar+Apollo)**<br/>
 > `34 ▶️` ∙ **[Fred again..](https://www.last.fm/music/Fred+again..)**<br/>
 > `30 ▶️` ∙ **[ROSALÍA](https://www.last.fm/music/ROSAL%C3%8DA)**<br/>
 <!--END_LASTFM_ARTISTS-->
