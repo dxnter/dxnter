@@ -21,7 +21,7 @@ Other            50 mins         ▓░░░░░░░░░░░░░░�
 
 > `139 ▶️` ∙ **[Charli XCX](https://www.last.fm/music/Charli+XCX)**<br/>
 > `97 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
-> `57 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
+> `56 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
 > `55 ▶️` ∙ **[Omar Apollo](https://www.last.fm/music/Omar+Apollo)**<br/>
 > `34 ▶️` ∙ **[Fred again..](https://www.last.fm/music/Fred+again..)**<br/>
 > `32 ▶️` ∙ **[ROSALÍA](https://www.last.fm/music/ROSAL%C3%8DA)**<br/>
