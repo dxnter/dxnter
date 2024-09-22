@@ -19,9 +19,9 @@ Other            46 mins         ▓░░░░░░░░░░░░░░�
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 3 Months**
 
-> `116 ▶️` ∙ **[Charli XCX](https://www.last.fm/music/Charli+XCX)**<br/>
+> `120 ▶️` ∙ **[Charli XCX](https://www.last.fm/music/Charli+XCX)**<br/>
 > `95 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
-> `58 ▶️` ∙ **[Omar Apollo](https://www.last.fm/music/Omar+Apollo)**<br/>
+> `59 ▶️` ∙ **[Omar Apollo](https://www.last.fm/music/Omar+Apollo)**<br/>
 > `56 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
 > `35 ▶️` ∙ **[Fred again..](https://www.last.fm/music/Fred+again..)**<br/>
 > `30 ▶️` ∙ **[Karol G](https://www.last.fm/music/Karol+G)**<br/>
