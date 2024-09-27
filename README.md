@@ -21,7 +21,7 @@ Markdown         52 mins         ▓░░░░░░░░░░░░░░�
 
 > `120 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 > `96 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
-> `59 ▶️` ∙ **[Omar Apollo](https://www.last.fm/music/Omar+Apollo)**<br/>
+> `60 ▶️` ∙ **[Omar Apollo](https://www.last.fm/music/Omar+Apollo)**<br/>
 > `54 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
 > `36 ▶️` ∙ **[Fred again..](https://www.last.fm/music/Fred+again..)**<br/>
 > `30 ▶️` ∙ **[Karol G](https://www.last.fm/music/Karol+G)**<br/>
