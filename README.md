@@ -20,9 +20,9 @@ SCSS             39 mins         ▒░░░░░░░░░░░░░░�
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 3 Months**
 
 > `121 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
-> `96 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
+> `97 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
 > `60 ▶️` ∙ **[Omar Apollo](https://www.last.fm/music/Omar+Apollo)**<br/>
 > `54 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
 > `36 ▶️` ∙ **[Fred again..](https://www.last.fm/music/Fred+again..)**<br/>
-> `30 ▶️` ∙ **[Karol G](https://www.last.fm/music/Karol+G)**<br/>
+> `30 ▶️` ∙ **[Caroline Polachek](https://www.last.fm/music/Caroline+Polachek)**<br/>
 <!--END_LASTFM_ARTISTS-->
