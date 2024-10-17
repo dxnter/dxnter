@@ -23,6 +23,6 @@ SCSS             43 mins         ▒░░░░░░░░░░░░░░�
 > `60 ▶️` ∙ **[Omar Apollo](https://www.last.fm/music/Omar+Apollo)**<br/>
 > `46 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
 > `34 ▶️` ∙ **[Caroline Polachek](https://www.last.fm/music/Caroline+Polachek)**<br/>
-> `31 ▶️` ∙ **[Fred again..](https://www.last.fm/music/Fred+again..)**<br/>
 > `30 ▶️` ∙ **[Karol G](https://www.last.fm/music/Karol+G)**<br/>
+> `28 ▶️` ∙ **[Fred again..](https://www.last.fm/music/Fred+again..)**<br/>
 <!--END_LASTFM_ARTISTS-->
