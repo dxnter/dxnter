@@ -21,7 +21,7 @@ JavaScript       39 mins         ▒░░░░░░░░░░░░░░�
 
 > `82 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 > `41 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
-> `35 ▶️` ∙ **[Halsey](https://www.last.fm/music/Halsey)**<br/>
+> `36 ▶️` ∙ **[Halsey](https://www.last.fm/music/Halsey)**<br/>
 > `34 ▶️` ∙ **[Omar Apollo](https://www.last.fm/music/Omar+Apollo)**<br/>
 > `33 ▶️` ∙ **[Caroline Polachek](https://www.last.fm/music/Caroline+Polachek)**<br/>
 > `28 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
