@@ -22,7 +22,7 @@ Bash             59 mins         ▓░░░░░░░░░░░░░░�
 > `87 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 > `41 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
 > `36 ▶️` ∙ **[Halsey](https://www.last.fm/music/Halsey)**<br/>
-> `34 ▶️` ∙ **[Caroline Polachek](https://www.last.fm/music/Caroline+Polachek)**<br/>
-> `29 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
+> `32 ▶️` ∙ **[Caroline Polachek](https://www.last.fm/music/Caroline+Polachek)**<br/>
+> `26 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
 > `24 ▶️` ∙ **[Sophie](https://www.last.fm/music/Sophie)**<br/>
 <!--END_LASTFM_ARTISTS-->
