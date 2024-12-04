@@ -22,7 +22,7 @@ TypeScript       1 hr 17 mins    █▓░░░░░░░░░░░░░�
 > `57 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 > `37 ▶️` ∙ **[Halsey](https://www.last.fm/music/Halsey)**<br/>
 > `36 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
-> `30 ▶️` ∙ **[Caroline Polachek](https://www.last.fm/music/Caroline+Polachek)**<br/>
+> `31 ▶️` ∙ **[Caroline Polachek](https://www.last.fm/music/Caroline+Polachek)**<br/>
 > `26 ▶️` ∙ **[Sophie](https://www.last.fm/music/Sophie)**<br/>
 > `20 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
 <!--END_LASTFM_ARTISTS-->
