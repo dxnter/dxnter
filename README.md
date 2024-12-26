@@ -21,8 +21,8 @@ JSON             39 mins         █░░░░░░░░░░░░░░�
 
 > `45 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 > `35 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
-> `31 ▶️` ∙ **[Caroline Polachek](https://www.last.fm/music/Caroline+Polachek)**<br/>
+> `27 ▶️` ∙ **[Caroline Polachek](https://www.last.fm/music/Caroline+Polachek)**<br/>
 > `26 ▶️` ∙ **[Sophie](https://www.last.fm/music/Sophie)**<br/>
 > `25 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
-> `24 ▶️` ∙ **[Halsey](https://www.last.fm/music/Halsey)**<br/>
+> `23 ▶️` ∙ **[Halsey](https://www.last.fm/music/Halsey)**<br/>
 <!--END_LASTFM_ARTISTS-->
