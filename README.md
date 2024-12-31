@@ -24,5 +24,5 @@ Blade Template   0 secs          ░░░░░░░░░░░░░░░�
 > `25 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `23 ▶️` ∙ **[Sophie](https://www.last.fm/music/Sophie)**<br/>
 > `22 ▶️` ∙ **[Caroline Polachek](https://www.last.fm/music/Caroline+Polachek)**<br/>
-> `21 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
+> `22 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
 <!--END_LASTFM_ARTISTS-->
