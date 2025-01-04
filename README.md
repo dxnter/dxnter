@@ -23,6 +23,6 @@ JSON             0 secs          ░░░░░░░░░░░░░░░�
 > `37 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
 > `25 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `23 ▶️` ∙ **[Sophie](https://www.last.fm/music/Sophie)**<br/>
-> `22 ▶️` ∙ **[Caroline Polachek](https://www.last.fm/music/Caroline+Polachek)**<br/>
-> `22 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
+> `21 ▶️` ∙ **[Caroline Polachek](https://www.last.fm/music/Caroline+Polachek)**<br/>
+> `21 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
 <!--END_LASTFM_ARTISTS-->
