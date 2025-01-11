@@ -24,5 +24,5 @@ JavaScript       7 mins          █▓░░░░░░░░░░░░░�
 > `25 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `21 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
 > `19 ▶️` ∙ **[Halsey](https://www.last.fm/music/Halsey)**<br/>
-> `19 ▶️` ∙ **[Sophie](https://www.last.fm/music/Sophie)**<br/>
+> `18 ▶️` ∙ **[Sophie](https://www.last.fm/music/Sophie)**<br/>
 <!--END_LASTFM_ARTISTS-->
