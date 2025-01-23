@@ -22,7 +22,7 @@ JavaScript       50 mins         ▓░░░░░░░░░░░░░░�
 > `25 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 > `23 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `21 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
-> `18 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
 > `16 ▶️` ∙ **[KAROL G](https://www.last.fm/music/KAROL+G)**<br/>
+> `16 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
 > `15 ▶️` ∙ **[Bad Bunny](https://www.last.fm/music/Bad+Bunny)**<br/>
 <!--END_LASTFM_ARTISTS-->
