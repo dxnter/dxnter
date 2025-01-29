@@ -22,7 +22,7 @@ HTML             18 mins         ▒░░░░░░░░░░░░░░�
 > `24 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `24 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 > `22 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
-> `16 ▶️` ∙ **[KAROL G](https://www.last.fm/music/KAROL+G)**<br/>
+> `17 ▶️` ∙ **[KAROL G](https://www.last.fm/music/KAROL+G)**<br/>
 > `15 ▶️` ∙ **[Bad Bunny](https://www.last.fm/music/Bad+Bunny)**<br/>
 > `15 ▶️` ∙ **[Kali Uchis](https://www.last.fm/music/Kali+Uchis)**<br/>
 <!--END_LASTFM_ARTISTS-->
