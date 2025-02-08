@@ -22,7 +22,7 @@ JSON             18 mins         ▒░░░░░░░░░░░░░░�
 > `40 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
 > `24 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `21 ▶️` ∙ **[Caroline Polachek](https://www.last.fm/music/Caroline+Polachek)**<br/>
-> `20 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
-> `19 ▶️` ∙ **[FKA twigs](https://www.last.fm/music/FKA+twigs)**<br/>
+> `21 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
+> `21 ▶️` ∙ **[FKA twigs](https://www.last.fm/music/FKA+twigs)**<br/>
 > `17 ▶️` ∙ **[KAROL G](https://www.last.fm/music/KAROL+G)**<br/>
 <!--END_LASTFM_ARTISTS-->
