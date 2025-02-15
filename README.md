@@ -21,8 +21,8 @@ Other            1 hr 7 mins     █░░░░░░░░░░░░░░�
 
 > `46 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
 > `23 ▶️` ∙ **[FKA twigs](https://www.last.fm/music/FKA+twigs)**<br/>
-> `22 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
-> `21 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
-> `20 ▶️` ∙ **[Caroline Polachek](https://www.last.fm/music/Caroline+Polachek)**<br/>
-> `17 ▶️` ∙ **[KAROL G](https://www.last.fm/music/KAROL+G)**<br/>
+> `19 ▶️` ∙ **[Caroline Polachek](https://www.last.fm/music/Caroline+Polachek)**<br/>
+> `16 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
+> `15 ▶️` ∙ **[Kali Uchis](https://www.last.fm/music/Kali+Uchis)**<br/>
+> `13 ▶️` ∙ **[Bad Bunny](https://www.last.fm/music/Bad+Bunny)**<br/>
 <!--END_LASTFM_ARTISTS-->
