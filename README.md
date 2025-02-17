@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 22 hrs 25 mins
+Total Time: 19 hrs 58 mins
 
-PHP              11 hrs 15 mins  ████████████░░░░░░░░░░░░░   47.76 %
-JSON             3 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
-YAML             3 hrs 11 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
-JavaScript       1 hr 57 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
-Other            1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
+PHP              9 hrs 49 mins   ███████████▓░░░░░░░░░░░░░   46.96 %
+YAML             3 hrs 10 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.14 %
+JSON             3 hrs           ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 %
+JavaScript       1 hr 52 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
+Other            56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
 ```
 
 <!--END_SECTION:waka-->
