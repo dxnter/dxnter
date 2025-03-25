@@ -23,6 +23,6 @@ SCSS             10 mins         ▒░░░░░░░░░░░░░░�
 > `72 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
 > `68 ▶️` ∙ **[Playboi Carti](https://www.last.fm/music/Playboi+Carti)**<br/>
 > `54 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
-> `30 ▶️` ∙ **[Kali Uchis](https://www.last.fm/music/Kali+Uchis)**<br/>
 > `30 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
+> `29 ▶️` ∙ **[Kali Uchis](https://www.last.fm/music/Kali+Uchis)**<br/>
 <!--END_LASTFM_ARTISTS-->
