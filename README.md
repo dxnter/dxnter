@@ -23,6 +23,6 @@ Terraform        20 mins         ▒░░░░░░░░░░░░░░�
 > `111 ▶️` ∙ **[Playboi Carti](https://www.last.fm/music/Playboi+Carti)**<br/>
 > `83 ▶️` ∙ **[FKA twigs](https://www.last.fm/music/FKA+twigs)**<br/>
 > `71 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
-> `40 ▶️` ∙ **[Sophie](https://www.last.fm/music/Sophie)**<br/>
+> `41 ▶️` ∙ **[Sophie](https://www.last.fm/music/Sophie)**<br/>
 > `37 ▶️` ∙ **[Kali Uchis](https://www.last.fm/music/Kali+Uchis)**<br/>
 <!--END_LASTFM_ARTISTS-->
