@@ -22,7 +22,7 @@ CSV              8 mins          ░░░░░░░░░░░░░░░�
 > `117 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
 > `110 ▶️` ∙ **[Playboi Carti](https://www.last.fm/music/Playboi+Carti)**<br/>
 > `67 ▶️` ∙ **[FKA twigs](https://www.last.fm/music/FKA+twigs)**<br/>
-> `48 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
+> `45 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 > `34 ▶️` ∙ **[Sophie](https://www.last.fm/music/Sophie)**<br/>
 > `33 ▶️` ∙ **[Kali Uchis](https://www.last.fm/music/Kali+Uchis)**<br/>
 <!--END_LASTFM_ARTISTS-->
