@@ -21,8 +21,8 @@ YAML             11 mins         ░░░░░░░░░░░░░░░�
 
 > `111 ▶️` ∙ **[Playboi Carti](https://www.last.fm/music/Playboi+Carti)**<br/>
 > `98 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
-> `59 ▶️` ∙ **[FKA twigs](https://www.last.fm/music/FKA+twigs)**<br/>
+> `61 ▶️` ∙ **[FKA twigs](https://www.last.fm/music/FKA+twigs)**<br/>
 > `43 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
-> `34 ▶️` ∙ **[Kali Uchis](https://www.last.fm/music/Kali+Uchis)**<br/>
+> `35 ▶️` ∙ **[Kali Uchis](https://www.last.fm/music/Kali+Uchis)**<br/>
 > `30 ▶️` ∙ **[Sophie](https://www.last.fm/music/Sophie)**<br/>
 <!--END_LASTFM_ARTISTS-->
