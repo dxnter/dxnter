@@ -22,7 +22,7 @@ JSON             5 mins          ░░░░░░░░░░░░░░░�
 > `63 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
 > `47 ▶️` ∙ **[Playboi Carti](https://www.last.fm/music/Playboi+Carti)**<br/>
 > `35 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
-> `25 ▶️` ∙ **[Magdalena Bay](https://www.last.fm/music/Magdalena+Bay)**<br/>
+> `24 ▶️` ∙ **[Magdalena Bay](https://www.last.fm/music/Magdalena+Bay)**<br/>
 > `23 ▶️` ∙ **[Sophie](https://www.last.fm/music/Sophie)**<br/>
 > `21 ▶️` ∙ **[Kali Uchis](https://www.last.fm/music/Kali+Uchis)**<br/>
 <!--END_LASTFM_ARTISTS-->
