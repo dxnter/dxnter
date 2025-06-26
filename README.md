@@ -24,5 +24,5 @@ Text             35 mins         ▓░░░░░░░░░░░░░░�
 > `35 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 > `24 ▶️` ∙ **[Magdalena Bay](https://www.last.fm/music/Magdalena+Bay)**<br/>
 > `23 ▶️` ∙ **[Sophie](https://www.last.fm/music/Sophie)**<br/>
-> `21 ▶️` ∙ **[Kali Uchis](https://www.last.fm/music/Kali+Uchis)**<br/>
+> `19 ▶️` ∙ **[Kali Uchis](https://www.last.fm/music/Kali+Uchis)**<br/>
 <!--END_LASTFM_ARTISTS-->
