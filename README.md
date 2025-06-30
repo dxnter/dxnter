@@ -21,8 +21,8 @@ Bash             28 mins         █░░░░░░░░░░░░░░�
 
 > `49 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
 > `34 ▶️` ∙ **[Playboi Carti](https://www.last.fm/music/Playboi+Carti)**<br/>
-> `32 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
-> `24 ▶️` ∙ **[Magdalena Bay](https://www.last.fm/music/Magdalena+Bay)**<br/>
+> `29 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
+> `23 ▶️` ∙ **[Magdalena Bay](https://www.last.fm/music/Magdalena+Bay)**<br/>
 > `23 ▶️` ∙ **[Sophie](https://www.last.fm/music/Sophie)**<br/>
 > `17 ▶️` ∙ **[Kali Uchis](https://www.last.fm/music/Kali+Uchis)**<br/>
 <!--END_LASTFM_ARTISTS-->
