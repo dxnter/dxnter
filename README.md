@@ -21,8 +21,8 @@ JavaScript       29 mins         ▓░░░░░░░░░░░░░░�
 
 > `37 ▶️` ∙ **[Marina](https://www.last.fm/music/Marina)**<br/>
 > `34 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
+> `24 ▶️` ∙ **[Magdalena Bay](https://www.last.fm/music/Magdalena+Bay)**<br/>
 > `24 ▶️` ∙ **[PinkPantheress](https://www.last.fm/music/PinkPantheress)**<br/>
-> `23 ▶️` ∙ **[Magdalena Bay](https://www.last.fm/music/Magdalena+Bay)**<br/>
 > `23 ▶️` ∙ **[Playboi Carti](https://www.last.fm/music/Playboi+Carti)**<br/>
 > `20 ▶️` ∙ **[Sophie](https://www.last.fm/music/Sophie)**<br/>
 <!--END_LASTFM_ARTISTS-->
