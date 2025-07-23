@@ -20,9 +20,9 @@ Other            20 mins         ▒░░░░░░░░░░░░░░�
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 3 Months**
 
 > `37 ▶️` ∙ **[Marina](https://www.last.fm/music/Marina)**<br/>
-> `34 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
+> `35 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
+> `25 ▶️` ∙ **[PinkPantheress](https://www.last.fm/music/PinkPantheress)**<br/>
 > `24 ▶️` ∙ **[Magdalena Bay](https://www.last.fm/music/Magdalena+Bay)**<br/>
-> `24 ▶️` ∙ **[PinkPantheress](https://www.last.fm/music/PinkPantheress)**<br/>
 > `23 ▶️` ∙ **[Playboi Carti](https://www.last.fm/music/Playboi+Carti)**<br/>
-> `20 ▶️` ∙ **[Sophie](https://www.last.fm/music/Sophie)**<br/>
+> `21 ▶️` ∙ **[SG Lewis](https://www.last.fm/music/SG+Lewis)**<br/>
 <!--END_LASTFM_ARTISTS-->
