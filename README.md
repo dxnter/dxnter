@@ -24,5 +24,5 @@ TOML             18 mins         ▓░░░░░░░░░░░░░░�
 > `25 ▶️` ∙ **[PinkPantheress](https://www.last.fm/music/PinkPantheress)**<br/>
 > `24 ▶️` ∙ **[Magdalena Bay](https://www.last.fm/music/Magdalena+Bay)**<br/>
 > `23 ▶️` ∙ **[Playboi Carti](https://www.last.fm/music/Playboi+Carti)**<br/>
-> `21 ▶️` ∙ **[SG Lewis](https://www.last.fm/music/SG+Lewis)**<br/>
+> `22 ▶️` ∙ **[SG Lewis](https://www.last.fm/music/SG+Lewis)**<br/>
 <!--END_LASTFM_ARTISTS-->
