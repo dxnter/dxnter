@@ -24,5 +24,5 @@ Blade Template   14 mins         ▓░░░░░░░░░░░░░░�
 > `24 ▶️` ∙ **[PinkPantheress](https://www.last.fm/music/PinkPantheress)**<br/>
 > `23 ▶️` ∙ **[SG Lewis](https://www.last.fm/music/SG+Lewis)**<br/>
 > `22 ▶️` ∙ **[Magdalena Bay](https://www.last.fm/music/Magdalena+Bay)**<br/>
-> `21 ▶️` ∙ **[Tyler, The Creator](https://www.last.fm/music/Tyler,+The+Creator)**<br/>
+> `22 ▶️` ∙ **[Tyler, The Creator](https://www.last.fm/music/Tyler,+The+Creator)**<br/>
 <!--END_LASTFM_ARTISTS-->
