@@ -23,6 +23,6 @@ Other            14 mins         ▒░░░░░░░░░░░░░░�
 > `36 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 > `24 ▶️` ∙ **[PinkPantheress](https://www.last.fm/music/PinkPantheress)**<br/>
 > `23 ▶️` ∙ **[SG Lewis](https://www.last.fm/music/SG+Lewis)**<br/>
-> `22 ▶️` ∙ **[Magdalena Bay](https://www.last.fm/music/Magdalena+Bay)**<br/>
 > `22 ▶️` ∙ **[Tyler, The Creator](https://www.last.fm/music/Tyler,+The+Creator)**<br/>
+> `18 ▶️` ∙ **[Magdalena Bay](https://www.last.fm/music/Magdalena+Bay)**<br/>
 <!--END_LASTFM_ARTISTS-->
