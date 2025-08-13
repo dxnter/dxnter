@@ -22,7 +22,7 @@ SCSS             12 mins         ░░░░░░░░░░░░░░░�
 > `41 ▶️` ∙ **[Marina](https://www.last.fm/music/Marina)**<br/>
 > `39 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 > `30 ▶️` ∙ **[surrenderdorothy](https://www.last.fm/music/surrenderdorothy)**<br/>
-> `26 ▶️` ∙ **[SG Lewis](https://www.last.fm/music/SG+Lewis)**<br/>
+> `27 ▶️` ∙ **[SG Lewis](https://www.last.fm/music/SG+Lewis)**<br/>
 > `24 ▶️` ∙ **[PinkPantheress](https://www.last.fm/music/PinkPantheress)**<br/>
 > `23 ▶️` ∙ **[Tyler, The Creator](https://www.last.fm/music/Tyler,+The+Creator)**<br/>
 <!--END_LASTFM_ARTISTS-->
