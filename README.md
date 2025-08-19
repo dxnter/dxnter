@@ -22,7 +22,7 @@ JSON             43 mins         █░░░░░░░░░░░░░░�
 > `41 ▶️` ∙ **[Marina](https://www.last.fm/music/Marina)**<br/>
 > `36 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 > `31 ▶️` ∙ **[surrenderdorothy](https://www.last.fm/music/surrenderdorothy)**<br/>
-> `29 ▶️` ∙ **[SG Lewis](https://www.last.fm/music/SG+Lewis)**<br/>
-> `23 ▶️` ∙ **[Tyler, The Creator](https://www.last.fm/music/Tyler,+The+Creator)**<br/>
+> `30 ▶️` ∙ **[SG Lewis](https://www.last.fm/music/SG+Lewis)**<br/>
+> `25 ▶️` ∙ **[Tyler, The Creator](https://www.last.fm/music/Tyler,+The+Creator)**<br/>
 > `22 ▶️` ∙ **[PinkPantheress](https://www.last.fm/music/PinkPantheress)**<br/>
 <!--END_LASTFM_ARTISTS-->
