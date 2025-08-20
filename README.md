@@ -24,5 +24,5 @@ JSON             43 mins         █░░░░░░░░░░░░░░�
 > `31 ▶️` ∙ **[surrenderdorothy](https://www.last.fm/music/surrenderdorothy)**<br/>
 > `30 ▶️` ∙ **[SG Lewis](https://www.last.fm/music/SG+Lewis)**<br/>
 > `25 ▶️` ∙ **[Tyler, The Creator](https://www.last.fm/music/Tyler,+The+Creator)**<br/>
-> `22 ▶️` ∙ **[PinkPantheress](https://www.last.fm/music/PinkPantheress)**<br/>
+> `21 ▶️` ∙ **[PinkPantheress](https://www.last.fm/music/PinkPantheress)**<br/>
 <!--END_LASTFM_ARTISTS-->
