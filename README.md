@@ -23,6 +23,6 @@ Other                         1 hr 7 mins     ▓░░░░░░░░░░�
 > `32 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 > `32 ▶️` ∙ **[SG Lewis](https://www.last.fm/music/SG+Lewis)**<br/>
 > `31 ▶️` ∙ **[surrenderdorothy](https://www.last.fm/music/surrenderdorothy)**<br/>
-> `27 ▶️` ∙ **[Tyler, The Creator](https://www.last.fm/music/Tyler,+The+Creator)**<br/>
+> `28 ▶️` ∙ **[Tyler, The Creator](https://www.last.fm/music/Tyler,+The+Creator)**<br/>
 > `21 ▶️` ∙ **[PinkPantheress](https://www.last.fm/music/PinkPantheress)**<br/>
 <!--END_LASTFM_ARTISTS-->
