@@ -21,8 +21,8 @@ TypeScript     16 mins         █░░░░░░░░░░░░░░░�
 
 > `70 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
 > `62 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
+> `61 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `42 ▶️` ∙ **[Marina](https://www.last.fm/music/Marina)**<br/>
 > `32 ▶️` ∙ **[SG Lewis](https://www.last.fm/music/SG+Lewis)**<br/>
 > `32 ▶️` ∙ **[surrenderdorothy](https://www.last.fm/music/surrenderdorothy)**<br/>
-> `29 ▶️` ∙ **[FKA twigs](https://www.last.fm/music/FKA+twigs)**<br/>
 <!--END_LASTFM_ARTISTS-->
