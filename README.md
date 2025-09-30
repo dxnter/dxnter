@@ -22,7 +22,7 @@ Other            5 mins          █░░░░░░░░░░░░░░�
 > `96 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
 > `80 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `63 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
-> `39 ▶️` ∙ **[Marina](https://www.last.fm/music/Marina)**<br/>
+> `37 ▶️` ∙ **[Marina](https://www.last.fm/music/Marina)**<br/>
 > `33 ▶️` ∙ **[SG Lewis](https://www.last.fm/music/SG+Lewis)**<br/>
 > `32 ▶️` ∙ **[surrenderdorothy](https://www.last.fm/music/surrenderdorothy)**<br/>
 <!--END_LASTFM_ARTISTS-->
