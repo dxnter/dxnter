@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 14 mins
+Total Time: 3 hrs 17 mins
 
-PHP              3 hrs 31 mins   ████████████████████▓░░░░   83.14 %
-Terraform        16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
-YAML             9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-Markdown         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-JSON             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+PHP              3 hrs           ███████████████████████░░   91.80 %
+YAML             9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+Markdown         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
