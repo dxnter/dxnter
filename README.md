@@ -23,6 +23,6 @@ JSON             4 mins          ░░░░░░░░░░░░░░░�
 > `85 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
 > `84 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `33 ▶️` ∙ **[surrenderdorothy](https://www.last.fm/music/surrenderdorothy)**<br/>
-> `30 ▶️` ∙ **[Lil Uzi Vert](https://www.last.fm/music/Lil+Uzi+Vert)**<br/>
+> `31 ▶️` ∙ **[Lil Uzi Vert](https://www.last.fm/music/Lil+Uzi+Vert)**<br/>
 > `28 ▶️` ∙ **[FKA twigs](https://www.last.fm/music/FKA+twigs)**<br/>
 <!--END_LASTFM_ARTISTS-->
