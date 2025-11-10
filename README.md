@@ -21,7 +21,7 @@ Markdown         27 mins         ▒░░░░░░░░░░░░░░�
 
 > `98 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
 > `83 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
-> `83 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
+> `80 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
 > `42 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
 > `29 ▶️` ∙ **[Lil Uzi Vert](https://www.last.fm/music/Lil+Uzi+Vert)**<br/>
 > `26 ▶️` ∙ **[FKA twigs](https://www.last.fm/music/FKA+twigs)**<br/>
