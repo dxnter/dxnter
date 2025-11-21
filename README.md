@@ -21,7 +21,7 @@ Other            59 mins         ▒░░░░░░░░░░░░░░�
 
 > `98 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
 > `81 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
-> `74 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
+> `73 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `42 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
 > `35 ▶️` ∙ **[FKA twigs](https://www.last.fm/music/FKA+twigs)**<br/>
 > `26 ▶️` ∙ **[Lil Uzi Vert](https://www.last.fm/music/Lil+Uzi+Vert)**<br/>
