@@ -19,9 +19,9 @@ YAML             1 hr 4 mins     ▓░░░░░░░░░░░░░░�
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 6}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 3 Months**
 
-> `98 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
+> `96 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
 > `81 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
-> `72 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
+> `71 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `45 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
 > `25 ▶️` ∙ **[FKA twigs](https://www.last.fm/music/FKA+twigs)**<br/>
 > `25 ▶️` ∙ **[Lil Uzi Vert](https://www.last.fm/music/Lil+Uzi+Vert)**<br/>
