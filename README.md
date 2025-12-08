@@ -6,7 +6,7 @@
 Total Time: 39 hrs 47 mins
 
 PHP              26 hrs 16 mins  ████████████████░░░░░░░░░   63.94 %
-Blade Template   6 hrs 15 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.22 %
+Blade Template   6 hrs 15 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.21 %
 Markdown         3 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
 MDX              2 hrs 23 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
 Other            1 hr 17 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
