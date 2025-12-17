@@ -21,8 +21,8 @@ JavaScript            1 hr 18 mins    █░░░░░░░░░░░░░
 
 > `73 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `52 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
-> `36 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
 > `35 ▶️` ∙ **[FKA twigs](https://www.last.fm/music/FKA+twigs)**<br/>
+> `35 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
 > `32 ▶️` ∙ **[Magdalena Bay](https://www.last.fm/music/Magdalena+Bay)**<br/>
 > `31 ▶️` ∙ **[Iglooghost](https://www.last.fm/music/Iglooghost)**<br/>
 <!--END_LASTFM_ARTISTS-->
