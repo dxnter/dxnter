@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 54 hrs 54 mins
+Total Time: 62 hrs 9 mins
 
-MDX              21 hrs 16 mins  █████████▒░░░░░░░░░░░░░░░   37.27 %
-TypeScript       18 hrs 46 mins  ████████▒░░░░░░░░░░░░░░░░   32.89 %
-PHP              5 hrs 28 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
-Other            2 hrs 11 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-JavaScript       1 hr 54 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+TypeScript       23 hrs 57 mins  █████████▒░░░░░░░░░░░░░░░   37.17 %
+MDX              21 hrs 44 mins  ████████▒░░░░░░░░░░░░░░░░   33.73 %
+PHP              5 hrs 21 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
+Other            2 hrs 17 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+JavaScript       2 hrs           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
 ```
 
 <!--END_SECTION:waka-->
