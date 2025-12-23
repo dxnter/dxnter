@@ -24,5 +24,5 @@ JavaScript       2 hrs           ▓░░░░░░░░░░░░░░�
 > `40 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
 > `39 ▶️` ∙ **[FKA twigs](https://www.last.fm/music/FKA+twigs)**<br/>
 > `36 ▶️` ∙ **[Magdalena Bay](https://www.last.fm/music/Magdalena+Bay)**<br/>
-> `27 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
+> `26 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 <!--END_LASTFM_ARTISTS-->
