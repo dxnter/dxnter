@@ -24,5 +24,5 @@ Blade Template        1 hr 50 mins    ▓░░░░░░░░░░░░░
 > `43 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
 > `39 ▶️` ∙ **[FKA twigs](https://www.last.fm/music/FKA+twigs)**<br/>
 > `36 ▶️` ∙ **[Magdalena Bay](https://www.last.fm/music/Magdalena+Bay)**<br/>
-> `24 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
+> `24 ▶️` ∙ **[ROSALÍA](https://www.last.fm/music/ROSAL%C3%8DA)**<br/>
 <!--END_LASTFM_ARTISTS-->
