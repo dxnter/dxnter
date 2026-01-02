@@ -49,14 +49,24 @@ jobs:
 
       - name: Squash all commits into one
         run: |
-          git pull origin main
+          git fetch origin main
+
+          git stash
+
+          git pull --rebase origin main
+
+          git stash pop || true
 
           git reset --soft ${{ steps.before.outputs.sha }}
+
+          git add README.md
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          if [[ -n $(git status --porcelain) ]]; then
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
             git commit -m "docs(readme): update stats and blog feed"
             git push --force-with-lease origin main
           fi
