@@ -29,12 +29,12 @@ jobs:
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
           LASTFM_USER: dxnter
 
-      - name : Update WakaTime Stats
-        uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          COMMIT_MESSAGE: "chore(readme): update WakaTime stats"
-          SHOW_TOTAL: true
+      # - name : Update WakaTime Stats
+      #   uses: athul/waka-readme@master
+      #   with:
+      #     WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      #     COMMIT_MESSAGE: "chore(readme): update WakaTime stats"
+      #     SHOW_TOTAL: true
 
       - name: Update Blog Feed
         uses: sarisia/actions-readme-feed@v1
