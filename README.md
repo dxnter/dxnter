@@ -8,6 +8,7 @@
         <div align="left">
 
 <!-- feed start -->
+- Dec 16 2025 - [Standardizing Laravel Applications at Northwestern University](https://foster.sh/blog/standardizing-laravel-applications-at-northwestern-university)
 <!-- feed end -->
 
 </div>
