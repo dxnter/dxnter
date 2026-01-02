@@ -48,6 +48,30 @@ jobs:
           url: |
             https://foster.sh/feed.xml
 
+      - name: Normalize Last.fm list markers
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          path = Path("README.md")
+          text = path.read_text()
+
+          pattern = re.compile(
+              r"(<!--START_LASTFM_ARTISTS:[^>]*-->)(.*?)(<!--END_LASTFM_ARTISTS-->)",
+              re.S,
+          )
+
+          def normalize(match):
+              start, body, end = match.groups()
+              body = re.sub(r"^> `", r"- `", body, flags=re.M)
+              return f"{start}{body}{end}"
+
+          updated = pattern.sub(normalize, text)
+          if updated != text:
+              path.write_text(updated)
+          PY
+
       - name: Squash all commits into one
         run: |
           git fetch origin main
