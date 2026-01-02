@@ -28,6 +28,7 @@ jobs:
         with:
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
           LASTFM_USER: dxnter
+          SHOW_TITLE: false
 
       # - name : Update WakaTime Stats
       #   uses: athul/waka-readme@master
