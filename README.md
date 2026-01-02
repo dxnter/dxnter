@@ -1,7 +1,7 @@
 <div align="center">
   <table>
     <tr>
-      <td>
+      <td valign="top">
         <div align="center">
           <h3>📝 Recent Posts</h3>
         </div>
@@ -13,7 +13,7 @@
 
 </div>
       </td>
-      <td>
+      <td valign="top">
         <div align="center">
           <h3>🎵 Top Artists - Past 3 Months</h3>
         </div>
