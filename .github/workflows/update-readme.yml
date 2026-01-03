@@ -76,12 +76,6 @@ jobs:
         run: |
           git fetch origin main
 
-          git stash
-
-          git pull --rebase origin main
-
-          git stash pop || true
-
           git reset --soft ${{ steps.before.outputs.sha }}
 
           git add README.md
