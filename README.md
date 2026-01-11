@@ -8,6 +8,7 @@
         <div align="left">
 
 <!-- feed start -->
+- Jan 9 2026 - [Dynamic Playwright Sharding in GitHub Actions](https://foster.sh/blog/dynamic-playwright-sharding-in-github-actions)
 - Dec 16 2025 - [Standardizing Laravel Applications at Northwestern University](https://foster.sh/blog/standardizing-laravel-applications-at-northwestern-university)
 <!-- feed end -->
 
@@ -20,12 +21,12 @@
         <div align="left">
 
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 6}-->
-> `98 ▶️` ∙ **[Oklou](https://www.last.fm/music/Oklou)**<br/>
-> `45 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
-> `40 ▶️` ∙ **[Magdalena Bay](https://www.last.fm/music/Magdalena+Bay)**<br/>
-> `34 ▶️` ∙ **[FKA twigs](https://www.last.fm/music/FKA+twigs)**<br/>
-> `24 ▶️` ∙ **[ROSALÍA](https://www.last.fm/music/ROSAL%C3%8DA)**<br/>
-> `20 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
+- `98 ▶️` ∙ **[Oklou](https://www.last.fm/music/Oklou)**<br/>
+- `45 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
+- `40 ▶️` ∙ **[Magdalena Bay](https://www.last.fm/music/Magdalena+Bay)**<br/>
+- `34 ▶️` ∙ **[FKA twigs](https://www.last.fm/music/FKA+twigs)**<br/>
+- `24 ▶️` ∙ **[ROSALÍA](https://www.last.fm/music/ROSAL%C3%8DA)**<br/>
+- `20 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </div>
