@@ -21,12 +21,12 @@
         <div align="left">
 
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 6}-->
-- `138 ▶️` ∙ **[Oklou](https://www.last.fm/music/Oklou)**<br/>
-- `26 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
-- `25 ▶️` ∙ **[FKA twigs](https://www.last.fm/music/FKA+twigs)**<br/>
-- `23 ▶️` ∙ **[PinkPantheress](https://www.last.fm/music/PinkPantheress)**<br/>
-- `22 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
-- `22 ▶️` ∙ **[Magdalena Bay](https://www.last.fm/music/Magdalena+Bay)**<br/>
+> `138 ▶️` ∙ **[Oklou](https://www.last.fm/music/Oklou)**<br/>
+> `26 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
+> `25 ▶️` ∙ **[FKA twigs](https://www.last.fm/music/FKA+twigs)**<br/>
+> `23 ▶️` ∙ **[PinkPantheress](https://www.last.fm/music/PinkPantheress)**<br/>
+> `22 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
+> `22 ▶️` ∙ **[Magdalena Bay](https://www.last.fm/music/Magdalena+Bay)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </div>
