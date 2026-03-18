@@ -21,12 +21,12 @@
         <div align="left">
 
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 6}-->
-- `154 ▶️` ∙ **[Oklou](https://www.last.fm/music/Oklou)**<br/>
-- `87 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
-- `20 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
-- `18 ▶️` ∙ **[PinkPantheress](https://www.last.fm/music/PinkPantheress)**<br/>
-- `16 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
-- `15 ▶️` ∙ **[The Marías](https://www.last.fm/music/The+Mar%C3%ADas)**<br/>
+> `154 ▶️` ∙ **[Oklou](https://www.last.fm/music/Oklou)**<br/>
+> `87 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
+> `20 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
+> `18 ▶️` ∙ **[PinkPantheress](https://www.last.fm/music/PinkPantheress)**<br/>
+> `16 ▶️` ∙ **[Lady Gaga](https://www.last.fm/music/Lady+Gaga)**<br/>
+> `15 ▶️` ∙ **[The Marías](https://www.last.fm/music/The+Mar%C3%ADas)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </div>
