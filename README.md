@@ -21,12 +21,12 @@
         <div align="left">
 
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 6}-->
-- `87 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
-- `79 ▶️` ∙ **[Oklou](https://www.last.fm/music/Oklou)**<br/>
-- `19 ▶️` ∙ **[FKA twigs](https://www.last.fm/music/FKA+twigs)**<br/>
-- `14 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
-- `13 ▶️` ∙ **[PinkPantheress](https://www.last.fm/music/PinkPantheress)**<br/>
-- `12 ▶️` ∙ **[The Marías](https://www.last.fm/music/The+Mar%C3%ADas)**<br/>
+> `87 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
+> `79 ▶️` ∙ **[Oklou](https://www.last.fm/music/Oklou)**<br/>
+> `19 ▶️` ∙ **[FKA twigs](https://www.last.fm/music/FKA+twigs)**<br/>
+> `14 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
+> `13 ▶️` ∙ **[PinkPantheress](https://www.last.fm/music/PinkPantheress)**<br/>
+> `12 ▶️` ∙ **[The Marías](https://www.last.fm/music/The+Mar%C3%ADas)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </div>
