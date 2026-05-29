@@ -21,12 +21,12 @@
         <div align="left">
 
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 6}-->
-- `88 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
-- `67 ▶️` ∙ **[Oklou](https://www.last.fm/music/Oklou)**<br/>
-- `50 ▶️` ∙ **[FKA twigs](https://www.last.fm/music/FKA+twigs)**<br/>
-- `45 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
-- `29 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
-- `26 ▶️` ∙ **[PinkPantheress](https://www.last.fm/music/PinkPantheress)**<br/>
+> `88 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
+> `68 ▶️` ∙ **[Oklou](https://www.last.fm/music/Oklou)**<br/>
+> `50 ▶️` ∙ **[FKA twigs](https://www.last.fm/music/FKA+twigs)**<br/>
+> `45 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
+> `29 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
+> `26 ▶️` ∙ **[PinkPantheress](https://www.last.fm/music/PinkPantheress)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </div>
