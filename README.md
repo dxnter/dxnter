@@ -21,12 +21,12 @@
         <div align="left">
 
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 6}-->
-> `74 ▶️` ∙ **[Oklou](https://www.last.fm/music/Oklou)**<br/>
-> `51 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
-> `41 ▶️` ∙ **[PinkPantheress](https://www.last.fm/music/PinkPantheress)**<br/>
-> `37 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
-> `36 ▶️` ∙ **[FKA twigs](https://www.last.fm/music/FKA+twigs)**<br/>
-> `25 ▶️` ∙ **[Slayyyter](https://www.last.fm/music/Slayyyter)**<br/>
+- `74 ▶️` ∙ **[Oklou](https://www.last.fm/music/Oklou)**<br/>
+- `51 ▶️` ∙ **[Pi’erre Bourne](https://www.last.fm/music/Pi%E2%80%99erre+Bourne)**<br/>
+- `41 ▶️` ∙ **[PinkPantheress](https://www.last.fm/music/PinkPantheress)**<br/>
+- `37 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
+- `36 ▶️` ∙ **[FKA twigs](https://www.last.fm/music/FKA+twigs)**<br/>
+- `25 ▶️` ∙ **[Slayyyter](https://www.last.fm/music/Slayyyter)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </div>
