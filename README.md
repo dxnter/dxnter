@@ -21,12 +21,12 @@
         <div align="left">
 
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 6}-->
-> `92 ▶️` ∙ **[Kim Petras](https://www.last.fm/music/Kim+Petras)**<br/>
-> `63 ▶️` ∙ **[Oklou](https://www.last.fm/music/Oklou)**<br/>
-> `59 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
-> `47 ▶️` ∙ **[Jane Remover](https://www.last.fm/music/Jane+Remover)**<br/>
-> `23 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
-> `13 ▶️` ∙ **[underscores](https://www.last.fm/music/underscores)**<br/>
+- `92 ▶️` ∙ **[Kim Petras](https://www.last.fm/music/Kim+Petras)**<br/>
+- `63 ▶️` ∙ **[Oklou](https://www.last.fm/music/Oklou)**<br/>
+- `59 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
+- `47 ▶️` ∙ **[Jane Remover](https://www.last.fm/music/Jane+Remover)**<br/>
+- `23 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
+- `13 ▶️` ∙ **[underscores](https://www.last.fm/music/underscores)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </div>
