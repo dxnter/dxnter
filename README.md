@@ -21,12 +21,12 @@
         <div align="left">
 
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 6}-->
-- `77 ▶️` ∙ **[Kim Petras](https://www.last.fm/music/Kim+Petras)**<br/>
-- `40 ▶️` ∙ **[Jane Remover](https://www.last.fm/music/Jane+Remover)**<br/>
-- `35 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
-- `23 ▶️` ∙ **[Henry Mancini](https://www.last.fm/music/Henry+Mancini)**<br/>
-- `7 ▶️` ∙ **[Metro Boomin](https://www.last.fm/music/Metro+Boomin)**<br/>
-- `6 ▶️` ∙ **[Kanye West](https://www.last.fm/music/Kanye+West)**<br/>
+> `77 ▶️` ∙ **[Kim Petras](https://www.last.fm/music/Kim+Petras)**<br/>
+> `40 ▶️` ∙ **[Jane Remover](https://www.last.fm/music/Jane+Remover)**<br/>
+> `34 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
+> `23 ▶️` ∙ **[Henry Mancini](https://www.last.fm/music/Henry+Mancini)**<br/>
+> `7 ▶️` ∙ **[Metro Boomin](https://www.last.fm/music/Metro+Boomin)**<br/>
+> `6 ▶️` ∙ **[Kanye West](https://www.last.fm/music/Kanye+West)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </div>
