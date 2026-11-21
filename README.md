@@ -21,12 +21,12 @@
         <div align="left">
 
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 6}-->
-> `94 ▶️` ∙ **[Kim Petras](https://www.last.fm/music/Kim+Petras)**<br/>
-> `37 ▶️` ∙ **[Jane Remover](https://www.last.fm/music/Jane+Remover)**<br/>
-> `23 ▶️` ∙ **[Henry Mancini](https://www.last.fm/music/Henry+Mancini)**<br/>
-> `17 ▶️` ∙ **[Oklou](https://www.last.fm/music/Oklou)**<br/>
-> `6 ▶️` ∙ **[Kanye West](https://www.last.fm/music/Kanye+West)**<br/>
-> `6 ▶️` ∙ **[Metro Boomin](https://www.last.fm/music/Metro+Boomin)**<br/>
+- `94 ▶️` ∙ **[Kim Petras](https://www.last.fm/music/Kim+Petras)**<br/>
+- `37 ▶️` ∙ **[Jane Remover](https://www.last.fm/music/Jane+Remover)**<br/>
+- `23 ▶️` ∙ **[Henry Mancini](https://www.last.fm/music/Henry+Mancini)**<br/>
+- `17 ▶️` ∙ **[Oklou](https://www.last.fm/music/Oklou)**<br/>
+- `6 ▶️` ∙ **[Kanye West](https://www.last.fm/music/Kanye+West)**<br/>
+- `6 ▶️` ∙ **[Metro Boomin](https://www.last.fm/music/Metro+Boomin)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 </div>
